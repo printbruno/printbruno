@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @printbruno, Bruno Silva
 - 👀 I’m interested in ... learn more about my personal area and reinforce my knowledge
 - 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... my personal e-mail: bruno_fernando.araujo@hotmail.com or phone number +55 (31) 99328-0306
+
 
 
 
